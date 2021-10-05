@@ -19,7 +19,29 @@ namespace SumOfNumbers
    return a + b;
   }
 
+  static float Sum(float a, float b)
+  {
+   return a + b;
+  }
 
+  static float SquaredSum(float a, float b)
+  {
+   return ((a * a) + (b * b));
+  }
 
+  static float SumOfThreeNumbers(float a,float b,float c)
+  {
+   return a + b + c;
+  }
+
+  static float SquaredSumOfTwoNumsMinusThirdNum(float a , float b, float c)
+  {
+   return ((a * a) + (b * b)) - c;
+  }
+
+  static float SumOfTwoNumsMinusThirdNum(float a,float b,float c)
+  {
+   return (a + b) - c;
+  }
  }
 }
