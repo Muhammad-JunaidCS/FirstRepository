@@ -1,0 +1,14 @@
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.exe
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.deps.json
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.json
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.dev.json
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.dll
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.pdb
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.csproj.AssemblyReference.cache
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfo.cs
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.dll
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.pdb
+C:\Users\Muhammad Junaid\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.genruntimeconfig.cache
